@@ -7,8 +7,11 @@
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Whoeevee",
-      "subtitle": "Spotify++ - Injected with EeveeSpotify",
-      "versions": [
+      "subtitle": "Spotify++",
+      "localizedDescription": "Spotify injected with EeveeSpotify",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa",
+       "versions": [
         {
           "version": "5.4-8.9.80",
           "date": "2024-10-06",
