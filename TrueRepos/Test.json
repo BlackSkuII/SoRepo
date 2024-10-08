@@ -9,7 +9,7 @@
       "developerName": "",
       "subtitle": "Spotify alternative frontend",
       "versions": [
-
+        {
           "version": "5.4-8.9.80",
           "versionDate": "2024-10-07",
           "versionDescription": "- Latest release with bug fixes and performance improvements.",
