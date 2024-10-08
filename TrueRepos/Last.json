@@ -19,7 +19,7 @@
     },
     {
       "name": "EeveeSpotify 5.3",
-      "bundleIdentifier": "com.spotify.client.5.3",
+      "bundleIdentifier": "com.eeveespotify.5.3",
       "developerName": "EeveeSpotify",
       "subtitle": "Spotify alternative frontend",
       "version": "5.3-8.9.78",
@@ -33,7 +33,7 @@
     },
     {
       "name": "EeveeSpotify 5.2",
-      "bundleIdentifier": "com.spotify.client.5.2",
+      "bundleIdentifier": "com.eeveespotify.5.2",
       "developerName": "EeveeSpotify",
       "subtitle": "Spotify alternative frontend",
       "version": "5.2-8.9.76",
@@ -47,7 +47,7 @@
     },
     {
       "name": "EeveeSpotify 5.1",
-      "bundleIdentifier": "com.spotify.client.5.1",
+      "bundleIdentifier": "com.eeveespotify.5.1",
       "developerName": "EeveeSpotify",
       "subtitle": "Spotify alternative frontend",
       "version": "5.1-8.9.74",
@@ -61,7 +61,7 @@
     },
     {
       "name": "EeveeSpotify 5.0",
-      "bundleIdentifier": "com.spotify.client.5.0",
+      "bundleIdentifier": "com.eeveespotify.5.0",
       "developerName": "EeveeSpotify",
       "subtitle": "Spotify alternative frontend",
       "version": "5.0-8.9.70",
@@ -75,7 +75,7 @@
     },
     {
       "name": "EeveeSpotify 4.9",
-      "bundleIdentifier": "com.spotify.client.4.9",
+      "bundleIdentifier": "com.eeveespotify.4.9",
       "developerName": "EeveeSpotify",
       "subtitle": "Spotify alternative frontend",
       "version": "4.9-8.9.68",
@@ -89,7 +89,7 @@
     },
     {
       "name": "EeveeSpotify 4.8",
-      "bundleIdentifier": "com.spotify.client.4.8",
+      "bundleIdentifier": "com.eeveespotify.4.8",
       "developerName": "EeveeSpotify",
       "subtitle": "Spotify alternative frontend",
       "version": "4.8-8.9.66",
@@ -103,7 +103,7 @@
     },
     {
       "name": "EeveeSpotify 4.7",
-      "bundleIdentifier": "com.spotify.client.4.7",
+      "bundleIdentifier": "com.eeveespotify.4.7",
       "developerName": "EeveeSpotify",
       "subtitle": "Spotify alternative frontend",
       "version": "4.7-8.9.64",
@@ -117,7 +117,7 @@
     },
     {
       "name": "EeveeSpotify 4.6",
-      "bundleIdentifier": "com.spotify.client.4.6",
+      "bundleIdentifier": "com.eeveespotify.4.6",
       "developerName": "EeveeSpotify",
       "subtitle": "Spotify alternative frontend",
       "version": "4.6-8.9.62",
@@ -131,7 +131,7 @@
     },
     {
       "name": "EeveeSpotify 4.5",
-      "bundleIdentifier": "com.spotify.client.4.5",
+      "bundleIdentifier": "com.eeveespotify.4.5",
       "developerName": "EeveeSpotify",
       "subtitle": "Spotify alternative frontend",
       "version": "4.5-8.9.58",
