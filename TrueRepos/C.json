@@ -28,6 +28,32 @@
           "size": 77116420
         }
       ],
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "To take photos in OldOS, please enable access to your camera."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "To view, manage, and add photos to your photo library in OldOS, please enable access. Then close and re-open the Photos app."
+        },
+        {
+          "type": "music",
+          "usageDescription": "To view, play, and experience your music in OldOS, please enable access to your music library."
+        },
+        {
+          "type": "location",
+          "usageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "To record your audio while filming a video in OldOS, please in enable microphone access."
+        },
+        {
+          "type": "contacts",
+          "usageDescription": "To view and manage your contacts in OldOS, please enable access to your contacts list."
+        }
+      ],
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/23/75/1823756d-b6b5-1fc8-1cb5-ce8272da8039/96d5ecb1-59d8-4e92-a775-bcb4cb7d7424_IOS_-_6.7_-_S01_-_EN_-_US-_C.png/314x0w.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/69/0f/dc690f9c-1939-996f-d3b0-ebf524de5045/a9f29c3b-5e58-4381-849c-266e9e1a6b05_IOS_-_6.7_-_S02_-_EN_-_US-_C.png/314x0w.webp",
