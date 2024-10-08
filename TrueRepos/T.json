@@ -1,0 +1,46 @@
+{
+  "name": "EeveeSpotify",
+  "identifier": "com.eevee.source",
+  "subtitle": "EeveeSpotify official source",
+  "apps": [
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Whoeevee",
+      "subtitle": "Spotify++",
+      "localizedDescription": "Spotify injected with EeveeSpotify",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa",
+      "versions": [
+        {
+          "version": "5.4-8.9.80",
+          "date": "2024-10-06",
+          "localizedDescription": "Spotify v8.9.80 injected with EeveeSpotify",
+          "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa",
+          "tintColor": "1DD65F",
+          "size": 80816437
+
+        },
+      ]
+    },
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.DebianArch.Scarlet",
+      "developerName": "Scarlet",
+      "subtitle": "SideLoading App",
+      "version": "1.0",
+      "versionDate": "2024-07-20",
+      "versionDescription": "- Alpha Version",
+      "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+      "localizedDescription": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
+      "iconURL": "https://usescarlet.com/icon.png",
+      "tintColor": "B72731",
+      "size": 43234567,
+         "screenshotURLs": [
+        "https://usescarlet.com/Scarlet-hero-shot.png",
+        "https://usescarlet.com/Hand2-Dark.png",
+        "https://usescarlet.com/icon.png"   
+      ]
+    }
+  ]
+}
