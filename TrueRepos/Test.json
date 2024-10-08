@@ -17,20 +17,20 @@
           "localizedDescription": "Spotify injected with EeveeSpotify",
           "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
           "tintColor": "51DAD8",
-          "size": 51234567,
-      },
-      {
-        "version": "5.3-8.9.78",
-        "versionDate": "2024-10-01",
-        "versionDescription": "- Latest release with bug fixes and performance improvements.",
-        "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.3/EeveeSpotify-5.3-8.9.78.ipa",
-        "localizedDescription": "EeveeSpotify 5.3 for iOS with optimized performance and enhanced features.",
-        "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
-        "tintColor": "FF5733",
-        "size": 51234567,
-      },
-      ],
-    
+          "size": 51234567
+        },
+        {
+          "version": "5.3-8.9.78",
+          "versionDate": "2024-10-01",
+          "versionDescription": "- Latest release with bug fixes and performance improvements.",
+          "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.3/EeveeSpotify-5.3-8.9.78.ipa",
+          "localizedDescription": "EeveeSpotify 5.3 for iOS with optimized performance and enhanced features.",
+          "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+          "tintColor": "FF5733",
+          "size": 51234567
+        }
+      ]
+    },
     {
       "name": "Scarlet",
       "bundleIdentifier": "com.DebianArch.Scarlet",
@@ -43,7 +43,7 @@
       "localizedDescription": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
       "iconURL": "https://usescarlet.com/icon.png",
       "tintColor": "5555FF",
-      "size": 43234567,
+      "size": 43234567
     }
   ]
 }
