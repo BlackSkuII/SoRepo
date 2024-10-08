@@ -13,8 +13,8 @@
       "versionDescription": "- Latest release with bug fixes and performance improvements.",
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.3/EeveeSpotify-5.3-8.9.78.ipa",
       "localizedDescription": "EeveeSpotify 5.3 for iOS with optimized performance and enhanced features.",
-      "iconURL": "https://example.com/eeveespotify5.3-icon.png",  // Replace with actual icon URL
-      "tintColor": "FF5733",  // Hex color code for UI theming
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "FF5733",
       "size": 51234567,
       "screenshotURLs": [
         "https://example.com/screenshots/eeveespotify5.3/screenshot1.png",
@@ -31,8 +31,8 @@
       "versionDescription": "- Previous version with stable features.",
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa",
       "localizedDescription": "EeveeSpotify 5.2 for iOS, providing stability and reliable performance.",
-      "iconURL": "https://example.com/eeveespotify5.2-icon.png",  // Replace with actual icon URL
-      "tintColor": "3385FF",  // Hex color code for UI theming
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "3385FF",
       "size": 50321456,
       "screenshotURLs": [
         "https://example.com/screenshots/eeveespotify5.2/screenshot1.png",
