@@ -15,6 +15,7 @@
           "version": "5.4-8.9.80",
           "versionDate": "2024-10-07",
           "versionDescription": "- Latest release with bug fixes and performance improvements.",
+          "localizedDescription": "Spotify v8.9.80 injected with EeveeSpotify",
           "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa",
           "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
           "tintColor": "51DAD8",
@@ -24,6 +25,8 @@
           "version": "5.3-8.9.78",
           "versionDate": "2024-10-01",
           "versionDescription": "- Latest release with bug fixes and performance improvements.",
+          "localizedDescription": "Spotify v8.0.80 injected with EeveeSpotify",
+
           "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.3/EeveeSpotify-5.3-8.9.78.ipa",
           "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
           "tintColor": "FF5733",
