@@ -1,0 +1,26 @@
+{
+  "name": "Scarlet",
+  "identifier": "com.usescarlet.source",
+  "subtitle": "EeveeSpotify official source",
+  "apps": [
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.DebianArch.Scarlet",
+      "developerName": "Scarlet",
+      "subtitle": "SideLoading test App",
+      "version": "1.10",
+      "versionDate": "2024-07-20",
+      "versionDescription": "- Alpha Version",
+      "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+      "localizedDescription": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
+      "iconURL": "https://usescarlet.com/icon.png",
+      "tintColor": "B72731",
+      "size": 43234567,
+      "screenshotURLs": [
+        "https://usescarlet.com/Scarlet-hero-shot.png",
+        "https://usescarlet.com/Hand2-Dark.png",
+        "https://usescarlet.com/icon.png"
+      ]
+    }
+  ]
+}
