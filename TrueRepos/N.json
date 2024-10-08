@@ -1,0 +1,59 @@
+{
+  "apps": [
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Whoeevee",
+      "subtitle": "Spotify++ - Injected with EeveeSpotify",
+      "versions": [
+        {
+          "version": "5.4-8.9.80",
+          "date": "2024-10-06",
+          "localizedDescription": "Spotify v8.9.80 modified with EeveeSpotify for enhanced features.",
+          "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa",
+          "size": 77116437
+        },
+        {
+          "version": "5.3-8.9.78",
+          "date": "2024-10-01",
+          "localizedDescription": "Spotify v8.9.78 injected with EeveeSpotify, offering performance improvements.",
+          "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.3/EeveeSpotify-5.3-8.9.78.ipa",
+          "size": 77116420
+        }
+      ],
+      "localizedDescription": "EeveeSpotify brings additional functionality to the original Spotify app, improving the user experience with enhanced features and tweaks.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "1DD65F",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/23/75/1823756d-b6b5-1fc8-1cb5-ce8272da8039/96d5ecb1-59d8-4e92-a775-bcb4cb7d7424_IOS_-_6.7_-_S01_-_EN_-_US-_C.png/314x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/69/0f/dc690f9c-1939-996f-d3b0-ebf524de5045/a9f29c3b-5e58-4381-849c-266e9e1a6b05_IOS_-_6.7_-_S02_-_EN_-_US-_C.png/314x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/59/06/51590650-bca4-a1ba-a35e-b8462760e1ea/c58abab7-8f4b-4d6e-8a86-5cdd2ecdec9e_IOS_-_6.7_-_S03_-_EN_-_US-_C.png/314x0w.webp"
+      ],
+      "beta": false
+    },
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.DebianArch.Scarlet",
+      "developerName": "Scarlet",
+      "subtitle": "Sideloading App - Scarlet Alpha",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-07-20",
+          "localizedDescription": "Alpha version of Scarlet, enabling app sideloading and tweaking without a computer.",
+          "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+          "size": 43234567
+        }
+      ],
+      "localizedDescription": "Scarlet is a powerful app that allows users to sideload apps and customize them with ease. It supports importing custom certificates and using a paid developer account without a computer.",
+      "iconURL": "https://usescarlet.com/icon.png",
+      "tintColor": "B72731",
+      "screenshotURLs": [
+        "https://usescarlet.com/Scarlet-hero-shot.png",
+        "https://usescarlet.com/Hand2-Dark.png",
+        "https://usescarlet.com/icon.png"
+      ],
+      "beta": true
+    }
+  ]
+}
