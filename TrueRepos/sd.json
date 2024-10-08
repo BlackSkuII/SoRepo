@@ -1,6 +1,6 @@
 {
   "name": "Scarlet",
-  "identifier": "",
+  "identifier": "com.DebianArch.Scarlet",
   "subtitle": "EeveeSpotify official source",
   "apps": [
     {
