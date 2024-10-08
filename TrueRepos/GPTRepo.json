@@ -1,0 +1,43 @@
+{
+  "name": "EeveeSpotify Repo",
+  "identifier": "com.eeveespotify.repo",
+  "sourceURL": "https://repos.eeveespotify.io/apps.json",
+  "apps": [
+    {
+      "name": "EeveeSpotify 5.3",
+      "bundleIdentifier": "com.eeveespotify.5.3",
+      "developerName": "EeveeSpotify",
+      "subtitle": "Spotify alternative frontend",
+      "version": "5.3",
+      "versionDate": "2024-10-05",
+      "versionDescription": "- Latest release with bug fixes and performance improvements.",
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.3/EeveeSpotify-5.3-8.9.78.ipa",
+      "localizedDescription": "EeveeSpotify 5.3 for iOS with optimized performance and enhanced features.",
+      "iconURL": "https://example.com/eeveespotify5.3-icon.png",  // Replace with actual icon URL
+      "tintColor": "FF5733",  // Hex color code for UI theming
+      "size": 51234567,
+      "screenshotURLs": [
+        "https://example.com/screenshots/eeveespotify5.3/screenshot1.png",
+        "https://example.com/screenshots/eeveespotify5.3/screenshot2.png"
+      ]
+    },
+    {
+      "name": "EeveeSpotify 5.2",
+      "bundleIdentifier": "com.eeveespotify.5.2",
+      "developerName": "EeveeSpotify",
+      "subtitle": "Spotify alternative frontend",
+      "version": "5.2",
+      "versionDate": "2024-10-05",
+      "versionDescription": "- Previous version with stable features.",
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa",
+      "localizedDescription": "EeveeSpotify 5.2 for iOS, providing stability and reliable performance.",
+      "iconURL": "https://example.com/eeveespotify5.2-icon.png",  // Replace with actual icon URL
+      "tintColor": "3385FF",  // Hex color code for UI theming
+      "size": 50321456,
+      "screenshotURLs": [
+        "https://example.com/screenshots/eeveespotify5.2/screenshot1.png",
+        "https://example.com/screenshots/eeveespotify5.2/screenshot2.png"
+      ]
+    }
+  ]
+}
