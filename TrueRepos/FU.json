@@ -17,6 +17,7 @@
           "date": "2024-10-06",
           "localizedDescription": "Spotify v8.9.80 injected with EeveeSpotify",
           "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa",
+          "tintColor": "1DD65F",
           "size": 80816437
           "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/23/75/1823756d-b6b5-1fc8-1cb5-ce8272da8039/96d5ecb1-59d8-4e92-a775-bcb4cb7d7424_IOS_-_6.7_-_S01_-_EN_-_US-_C.png/314x0w.webp",
@@ -42,7 +43,7 @@
       "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
       "localizedDescription": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
       "iconURL": "https://usescarlet.com/icon.png",
-      "tintColor": "5555FF",
+      "tintColor": "B72731",
       "size": 43234567,
          "screenshotURLs": [
         "https://usescarlet.com/Scarlet-hero-shot.png",
