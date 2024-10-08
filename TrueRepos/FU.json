@@ -18,6 +18,16 @@
           "localizedDescription": "Spotify v8.9.80 injected with EeveeSpotify",
           "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa",
           "size": 80816437
+          "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/23/75/1823756d-b6b5-1fc8-1cb5-ce8272da8039/96d5ecb1-59d8-4e92-a775-bcb4cb7d7424_IOS_-_6.7_-_S01_-_EN_-_US-_C.png/314x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/69/0f/dc690f9c-1939-996f-d3b0-ebf524de5045/a9f29c3b-5e58-4381-849c-266e9e1a6b05_IOS_-_6.7_-_S02_-_EN_-_US-_C.png/314x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/59/06/51590650-bca4-a1ba-a35e-b8462760e1ea/c58abab7-8f4b-4d6e-8a86-5cdd2ecdec9e_IOS_-_6.7_-_S03_-_EN_-_US-_C.png/314x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/47/05/a64705b6-126d-e845-94fa-6d5bedfe1a7e/ec45a7be-9f99-4a76-8f1e-810a3a697b04_IOS_-_6.7_-_S04_-_EN_-_US-_C.png/314x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/61/21/6a612114-ac6f-b1bf-1600-851e2f2c6279/749afff4-45ff-405a-b954-6d50d037a6f2_IOS_-_6.7_-_S05_-_EN_-_US-_C.png/314x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/5a/81/f15a81f1-733d-9565-7d61-fc50a1e0ca08/5f69b366-132a-4269-9009-e2fe3d8f83e5_IOS_-_6.7_-_S06_-_EN_-_US-_C.png/314x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/48/3b/71483bc3-d814-6ec4-f58b-1fe20c512b35/f20f6121-6132-4f95-a89d-3e91424f9f27_IOS_-_6.7_-_S07_-_EN_-_US-_C.png/314x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/ae/42/96ae425e-6ebd-dbfc-9e86-64510c53292a/876158f4-a054-4c90-86bd-87fde5206f44_IOS_-_6.7_-_S08_-_EN_-_US-_C.png/314x0w.webp"   
+      ]
         },
       ]
     },
@@ -34,10 +44,6 @@
       "iconURL": "https://usescarlet.com/icon.png",
       "tintColor": "5555FF",
       "size": 43234567,
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/23/75/1823756d-b6b5-1fc8-1cb5-ce8272da8039/96d5ecb1-59d8-4e92-a775-bcb4cb7d7424_IOS_-_6.7_-_S01_-_EN_-_US-_C.png/314x0w.webp",
-        "https://example.com/screenshots/eeveespotify4.6/screenshot2.png"
-      ]
     }
   ]
 }
