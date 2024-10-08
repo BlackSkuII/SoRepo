@@ -8,6 +8,7 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "",
       "subtitle": "Spotify alternative frontend",
+      "localizedDescription": "Spotify injected with EeveeSpotify",
       "versions": [
         {
           "version": "5.4-8.9.80",
