@@ -43,7 +43,7 @@
       "localizedDescription": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
       "iconURL": "https://usescarlet.com/icon.png",
       "tintColor": "5555FF",
-      "size": 43234567
+      "size": 43234567,
     }
   ]
 }
