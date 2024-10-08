@@ -4,7 +4,7 @@
   "sourceURL": "https://repos.eeveespotify.io/apps.json",
   "apps": [
     {
-      "name": "EeveeSpotify 5.4",
+      "name": "EeveeSpotify 5.4 test",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "EeveeSpotify",
       "subtitle": "Spotify alternative frontend",
