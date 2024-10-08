@@ -1,4 +1,7 @@
 {
+  "name": "meme",
+  "identifier": "com.mrmr.source",
+  "subtitle": "EeveeSpotify official source",
   "apps": [
     {
       "name": "EeveeSpotify",
