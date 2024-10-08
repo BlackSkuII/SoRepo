@@ -7,7 +7,7 @@
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "",
-      "localizedDescription": "",
+      "localizedDescription": "Spotify injected with EeveeSpotify",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa",
       "versions": [
@@ -18,7 +18,7 @@
           "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.4/EeveeSpotify-5.4-8.9.80.ipa",
           "size": 80816437
         },
-              ]
+      ]
     },
     {
       "name": "Scarlet",
