@@ -25,9 +25,9 @@
     },
     {
       "name": "Scarlet",
-      "bundleIdentifier": "com.DebianArch.Scarlet",
-      "developerName": "Scarlet",
-      "subtitle": "SideLoading App",
+      "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
+      "developerName": "DebianArch",
+      "subtitle": "Get more than an app store. Get Scarlet.",
       "version": "1.0",
       "versionDate": "2024-07-20",
       "versionDescription": "- Alpha Version",
