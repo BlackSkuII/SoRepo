@@ -78,15 +78,11 @@
       "bundleIdentifier": "com.microblink.PhotoMath",
       "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png",
-      "versions": [
-        {
-          "version": "8.34.1",
-          "date": "2023-12-21",
-          "size": 16030553,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/PhotomathPlus-8.34.1.ipa",
-          "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 12-21-2023\nStatus: \u2705"
+      "version": "8.34.1",
+      "date": "2023-12-21",
+     "size": 16030553,
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/PhotomathPlus-8.34.1.ipa",
+    "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 12-21-2023\nStatus: \u2705"
         }
-      ],
-     }
   ]
 }
