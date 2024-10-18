@@ -72,6 +72,27 @@
         "https://usescarlet.com/Hand2-Dark.png",
         "https://usescarlet.com/icon.png"   
       ]
+    },
+{
+      "name": "PhotoMath++",
+      "bundleIdentifier": "com.microblink.PhotoMath",
+      "developerName": "DPixel / IPA Fire / zxcvbn\u2019s tweaked IPAs",
+      "subtitle": "Premium Version Of Photomath.",
+      "version": "8.34.1",
+      "versionDate": "2023-12-21",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/PhotomathPlus-8.34.1.ipa",
+      "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 12-21-2023\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png",
+      "tintColor": "B72731",
+      "size": 16030553,
+         "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/f4/0c/79f40c7a-c732-b372-364d-a34889cc2222/95c1b40c-2f75-41f7-b446-a89ad93a691a_01.png/300x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/db/47/01db4770-41c5-d9f8-3ab2-45bd1306b114/ed5bc744-0a66-4ec3-8150-d11ba79a9016_02.png/300x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/c6/5a/cbc65a68-b5a3-17af-687c-869cb2500022/be89445f-bc95-4ab2-985f-9700ba518522_03.png/300x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/17/60/8f1760ee-b929-655f-643c-9c96e1bae260/80867c4b-27c3-428a-8e66-1029f0cfd152_04.png/300x0w.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/41/19/ee4119d4-cbe8-4ddb-57ea-c37c017ff4ae/b2e57722-728a-41bb-aa2f-b44439e17b48_05.png/300x0w.webp"
+      ]
     }
+    
   ]
 }
