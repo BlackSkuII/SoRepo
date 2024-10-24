@@ -76,6 +76,28 @@
       ]
     },
     
+
+        {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "esign.yyyue.xyz",
+      "subtitle": "IPA Self Signer, Tweak Injector, File Manager",
+      "version": "4.8.1",
+      "versionDate": "2023-03-19",
+      "versionDescription": "ESign updated to v4.8.1\n• The list of installed applications supports filtering",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ESign.v4.8.1.ipa",
+      "localizedDescription": "• ESign updated to v4.8.1\n• The list of installed applications supports filtering",
+      "iconURL": "https://static.appdb.to/images/cydia-1900000897-icon-1651011412.png",
+      "tintColor": "356ead",
+      "size": 8750000,
+         "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000897-iphone-0-1670149926.png",
+        "https://static.appdb.to/images/cydia-1900000897-iphone-1-1670149926.png",
+        "https://static.appdb.to/images/cydia-1900000897-iphone-2-1670149927.png",
+        "https://static.appdb.to/images/cydia-1900000897-iphone-3-1670149927.png"
+         ]
+    },
+    
         {
       "name": "Scarlet",
       "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
